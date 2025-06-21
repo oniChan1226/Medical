@@ -21,7 +21,7 @@ export default function Footer() {
               Your trusted partner for high-quality medical and laboratory equipment in Dubai and across the UAE.
               Excellence in service, quality in products.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               <a
                 href="#"
                 className="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center text-slate-400 hover:text-sky-400 hover:bg-slate-700 transition-colors"
@@ -46,7 +46,7 @@ export default function Footer() {
               >
                 <Instagram size={18} />
               </a>
-            </div>
+            </div> */}
           </div>
 
           {/* Quick Links */}
@@ -123,7 +123,7 @@ export default function Footer() {
         <div className="border-t border-slate-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-slate-400 text-sm mb-4 md:mb-0">
-              © 2024 Alyonus For Medical & Laboratory Equipment. All rights reserved.
+              © 2025 Alyonus For Medical & Laboratory Equipment. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-slate-400 hover:text-sky-400 transition-colors">

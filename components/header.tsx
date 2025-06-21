@@ -32,7 +32,8 @@ export default function Header() {
                 <span>zehabpoperty55@gmail.com</span>
               </div>
             </div>
-            <div className="text-slate-300">Dubai's Trusted Medical Equipment Supplier</div>
+                <span className="text-blue-100">(Website under-development)</span>
+            <div className="text-slate-300">Dubai's Trusted Medical Equipment Supplier  </div>
           </div>
         </div>
       </div>
